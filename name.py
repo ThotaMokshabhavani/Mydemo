@@ -1,0 +1,2 @@
+x=mb
+print(x)
